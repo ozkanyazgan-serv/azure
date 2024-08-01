@@ -2,7 +2,7 @@
 // Database configuration
 $serverName = "serviggo-sql-server.database.windows.net";
 $connectionOptions = array(
-    "Database" => "Serviggo-DB",
+    "Database" => "Serviggo_DB",
     "Uid" => "serviggo-admin",
     "PWD" => "0zk@nY@zg@n6!"
 );
